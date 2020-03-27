@@ -1,6 +1,6 @@
-# Satellite-Segmentation
+# Satellite-Building-Detection
 
-This is a satellite remote sensing segmentation project wirtten by Keras based on SegNet and U-Net.
+ Demo for final thesis:A satellite remote sensing building detection using Keras based on SegNet and U-Net.
 
 ## main ideas
 1. segmented by SegNet
@@ -13,5 +13,6 @@ This is a satellite remote sensing segmentation project wirtten by Keras based o
 gen_dataset.py
 ```
 
+Updating...
 
 
